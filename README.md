@@ -16,12 +16,19 @@ Harjoitustyöni juurikansio (Repositoriokansio)
   javadoc (Generoitu dokumentaatio, vaaditaan vasta loppupalautuksessa)
   
   dokumentaatio 
+  
     pit-raportti
+    
     checkstyle-raportti
+    
     aiheenKuvausJaRakenne.md
+    
     testausdokumentti.md
+    
     käyttöohjeet.md
+    
     tuntikirjanpito.md
+    
     luokka- ja sekvenssikaaviot.png tai .jpg
 
 
