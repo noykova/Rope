@@ -8,14 +8,7 @@ under different inputs.
 The project include use of graphical interface in Java. 
 
 
-
-
-Käyttäjät: Opiskelija ja Opetushallinto
-
-Kaikkien käyttäjien toiminnot:
-ilmoittautuminen 
-onnistuu jos kurssi ei ole täynnä ja opiskelija ei ole jo kurssilla
-omien ilmoittautumisten listaus
+#**Name**: Neli Noykova, Department of Computer Science
 
 
 
