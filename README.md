@@ -8,12 +8,16 @@ The content of this project will have the following folder structure, which will
 later with the corresponding links: 
 
 Harjoitustyöni juurikansio (Repositoriokansio)
+
   README.md
+  
   ohjelmasinimitähän/ (Netbeansin projektihakemisto)
-  javadoc/ (Generoitu dokumentaatio, vaaditaan vasta loppupalautuksessa)
-  dokumentaatio/ 
-    pit-raportti/
-    checkstyle-raportti/
+  
+  javadoc (Generoitu dokumentaatio, vaaditaan vasta loppupalautuksessa)
+  
+  dokumentaatio 
+    pit-raportti
+    checkstyle-raportti
     aiheenKuvausJaRakenne.md
     testausdokumentti.md
     käyttöohjeet.md
