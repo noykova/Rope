@@ -1,4 +1,4 @@
-**Title:** Rope
+**Title: Rope**
 
 Rope is is efficient data structure for very large strings. 
 It provides fast access by index / add / edit /delete operations
