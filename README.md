@@ -15,13 +15,13 @@ Harjoitustyöni juurikansio (Repositoriokansio)
   
   javadoc (Generoitu dokumentaatio, vaaditaan vasta loppupalautuksessa)
   
-  dokumentaatio 
+  ## Documentation 
   
     pit-raportti
     
-    checkstyle-raportti
+    [checkstyle-raportti] (https://github.com/noykova/Rope/tree/master/Rope/dokumentaatio/checkstyle)
     
-    aiheenKuvausJaRakenne.md
+    [aiheenKuvausJaRakenne.md](https://github.com/noykova/Rope/blob/master/aiheenKuvausJaRakenne.md)
     
     testausdokumentti.md
     
