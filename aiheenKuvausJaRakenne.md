@@ -7,7 +7,12 @@ under different inputs.
 
 The project include use of graphical interface in Java. 
 
-![Class Diagram](/path/to/img.jpg)
+At this stage the rope is programmed using two classes, RopeNode and Rope. 
+Main operations of inserting, substring, print and indexOf are realized. 
+
+The class diagram is presented here: 
+
+![Class Diagram](https://github.com/noykova/Rope/blob/master/ClassDiagramRopeVersion1.jpg)
 
 
 **Name**: Neli Noykova, Department of Computer Science
