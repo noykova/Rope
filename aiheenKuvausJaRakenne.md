@@ -7,6 +7,8 @@ under different inputs.
 
 The project include use of graphical interface in Java. 
 
+![Class Diagram](/path/to/img.jpg)
+
 
 **Name**: Neli Noykova, Department of Computer Science
 
